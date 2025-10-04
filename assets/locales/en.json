@@ -1,0 +1,17 @@
+{
+    "lang": "en",
+    "appName": "Bullseye ",
+    "policyTitle": "Privacy Policy",
+    "introTitle": "Introduction",
+    "introText": "This Privacy Policy explains how Bullseye collects, uses, and protects your personal information when you play our game.",
+    "dataTitle": "Data We Collect",
+    "dataList": [
+        "We do not collect any data, the game is 100% offline"
+    ],
+    "useTitle": "How We Receive Feedback",
+    "useText": "Send your comments and suggestions to improve the game to the provided email. We do not collect data automatically.",
+    "rightsTitle": "Your Rights",
+    "rightsText": "We will respond to legal requests in a timely manner.",
+    "contactEmail": "lucas.grecoj@gmail.com",
+    "footerNote": "All rights reserved."
+}
